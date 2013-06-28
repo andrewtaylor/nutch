@@ -5,3 +5,7 @@ conf/slaves
 build/
 runtime/
 logs/
+target
+.project
+.settings
+.classpath
